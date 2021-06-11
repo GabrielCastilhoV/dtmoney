@@ -1,21 +1,21 @@
-import styles from 'styled-components';
+import styled from 'styled-components';
 
-export const Container = styles.header`
+export const Container = styled.header`
   background: var(--blue);
 `;
 
-export const Content = styles.div`
+export const Content = styled.div`
   max-width: 1120px;
   margin: 0 auto;
 
   padding: 2rem 1rem 12rem;
   display: flex;
-  align-itens: center;
+  align-items: center;
   justify-content: space-between;
 
-  button { 
+  button {
     font-size: 1rem;
-    color: #FFF;
+    color: #ffffff;
     background: var(--blue-light);
 
     border: 0;
