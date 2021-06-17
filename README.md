@@ -1,4 +1,4 @@
-<img src="backgroundGithub.png"  alt="background for github" />
+<img src="./public/backgroundGithub.png"  alt="background for github" />
 
 <p align="center">
 <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
