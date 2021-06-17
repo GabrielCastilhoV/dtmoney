@@ -48,7 +48,7 @@ $ yarn start
 - Commit your changes: `git commit -m 'feat | my new feature'`;
 - Push to your branch: `git push origin my-feature`.
 
-By Gabriel Castilho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabrielcastilhov/)
+By Gabriel Castilho 👋🏽 [Contact](https://www.linkedin.com/in/gabrielcastilhov/)
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
